@@ -1,0 +1,1 @@
+file_name = os.path.abspath('snapwrite/code/photos/text.png')
